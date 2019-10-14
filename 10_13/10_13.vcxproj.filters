@@ -15,10 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="斐波那契.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="斐波那契.cpp">
+    <ClCompile Include="替换字符串的空格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归的斐波那契.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="非递归的斐波那契.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
