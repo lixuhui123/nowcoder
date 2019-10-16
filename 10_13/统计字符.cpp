@@ -12,13 +12,12 @@ class statistics
 public:
 	statistics()
 	{
-		char tmp[100] ="lkjgff oiugfc";
-		m_s = tmp;
-		/*char tmp;
-		while ((tmp=getchar())!='\n')
+		 
+		char tmp;
+		while ((tmp = getchar()) != '\n')
 		{
 			m_s.push_back(tmp);
-		}*/
+		}
 	}
 	void deal_statist()
 	{
