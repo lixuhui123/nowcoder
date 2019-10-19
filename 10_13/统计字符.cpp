@@ -47,7 +47,7 @@ public:
 		cout << zimu << endl << kongge << endl << num << endl << qita << endl;
 	}
 };
-int main()
+int maintyhgd()
 {
 	statistics test;
 	test.deal_statist();
