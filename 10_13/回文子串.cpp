@@ -41,7 +41,7 @@ public:
 	 }
 
 };
-int main()
+int mainjfu6ruyj()
 {
 	string s;
 	char tmp[55];

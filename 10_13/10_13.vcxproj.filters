@@ -39,5 +39,17 @@
     <ClCompile Include="源1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="爱吃猫粮的校招喵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="istringstream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="istringstream_.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ostringstream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
