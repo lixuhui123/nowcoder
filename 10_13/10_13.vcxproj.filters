@@ -51,5 +51,23 @@
     <ClCompile Include="ostringstream.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="统计字符类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RLE压缩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="解析加减法运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtok.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isdigit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -117,8 +117,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="isdigit.cpp" />
     <ClCompile Include="istringstream_.cpp" />
     <ClCompile Include="ostringstream.cpp" />
+    <ClCompile Include="RLE压缩.cpp" />
+    <ClCompile Include="strstr.cpp" />
+    <ClCompile Include="strtok.cpp" />
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
@@ -127,6 +131,8 @@
     <ClCompile Include="istringstream.cpp" />
     <ClCompile Include="爱吃猫粮的校招喵.cpp" />
     <ClCompile Include="统计字符.cpp" />
+    <ClCompile Include="统计字符类型.cpp" />
+    <ClCompile Include="解析加减法运算.cpp" />
     <ClCompile Include="递归的斐波那契.cpp" />
     <ClCompile Include="非递归的斐波那契.cpp" />
   </ItemGroup>
