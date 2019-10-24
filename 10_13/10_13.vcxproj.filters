@@ -69,5 +69,11 @@
     <ClCompile Include="isdigit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="加减法2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="atoi_and_stoi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

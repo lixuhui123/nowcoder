@@ -117,12 +117,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="atoi_and_stoi.cpp" />
     <ClCompile Include="isdigit.cpp" />
     <ClCompile Include="istringstream_.cpp" />
     <ClCompile Include="ostringstream.cpp" />
     <ClCompile Include="RLE压缩.cpp" />
     <ClCompile Include="strstr.cpp" />
     <ClCompile Include="strtok.cpp" />
+    <ClCompile Include="加减法2.cpp" />
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
