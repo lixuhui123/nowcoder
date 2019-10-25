@@ -124,7 +124,9 @@
     <ClCompile Include="RLE压缩.cpp" />
     <ClCompile Include="strstr.cpp" />
     <ClCompile Include="strtok.cpp" />
+    <ClCompile Include="substr.cpp" />
     <ClCompile Include="加减法2.cpp" />
+    <ClCompile Include="双重逆序字符串.cpp" />
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
@@ -132,6 +134,7 @@
     <ClCompile Include="源1.cpp" />
     <ClCompile Include="istringstream.cpp" />
     <ClCompile Include="爱吃猫粮的校招喵.cpp" />
+    <ClCompile Include="组成硬币.cpp" />
     <ClCompile Include="统计字符.cpp" />
     <ClCompile Include="统计字符类型.cpp" />
     <ClCompile Include="解析加减法运算.cpp" />

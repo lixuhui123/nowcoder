@@ -75,5 +75,14 @@
     <ClCompile Include="atoi_and_stoi.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="substr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双重逆序字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组成硬币.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
