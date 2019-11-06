@@ -118,13 +118,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="atoi_and_stoi.cpp" />
+    <ClCompile Include="c.printf.cpp" />
+    <ClCompile Include="const_ptr.cpp" />
     <ClCompile Include="isdigit.cpp" />
     <ClCompile Include="istringstream_.cpp" />
     <ClCompile Include="ostringstream.cpp" />
     <ClCompile Include="RLE压缩.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="strstr.cpp" />
     <ClCompile Include="strtok.cpp" />
     <ClCompile Include="substr.cpp" />
+    <ClCompile Include="test_scanf.cpp" />
+    <ClCompile Include="删除字符串中的字符.cpp" />
     <ClCompile Include="加减法2.cpp" />
     <ClCompile Include="双重逆序字符串.cpp" />
     <ClCompile Include="回文子串.cpp" />
@@ -136,6 +141,7 @@
     <ClCompile Include="istringstream.cpp" />
     <ClCompile Include="爱吃猫粮的校招喵.cpp" />
     <ClCompile Include="组成硬币.cpp" />
+    <ClCompile Include="组队竞赛.cpp" />
     <ClCompile Include="统计字符.cpp" />
     <ClCompile Include="统计字符类型.cpp" />
     <ClCompile Include="解析加减法运算.cpp" />

@@ -87,5 +87,23 @@
     <ClCompile Include="最小数字 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="组队竞赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除字符串中的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="const_ptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_scanf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c.printf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
