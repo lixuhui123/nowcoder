@@ -105,5 +105,14 @@
     <ClCompile Include="c.printf.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="在字符串中以单词反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="妞妞找子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_char.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
