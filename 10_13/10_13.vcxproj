@@ -128,6 +128,7 @@
     <ClCompile Include="strstr.cpp" />
     <ClCompile Include="strtok.cpp" />
     <ClCompile Include="substr.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="test_char.cpp" />
     <ClCompile Include="test_scanf.cpp" />
     <ClCompile Include="删除字符串中的字符.cpp" />
