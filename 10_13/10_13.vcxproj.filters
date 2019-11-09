@@ -117,5 +117,23 @@
     <ClCompile Include="test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="连续最长子数字串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="出现次数超过一半的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三人分糖果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="任意数值转化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="long.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
