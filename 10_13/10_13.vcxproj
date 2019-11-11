@@ -141,12 +141,14 @@
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="在字符串中以单词反转.cpp" />
     <ClCompile Include="妞妞找子数组.cpp" />
+    <ClCompile Include="找字符.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
     <ClCompile Include="最小数字 .cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
     <ClCompile Include="istringstream.cpp" />
+    <ClCompile Include="源2.cpp" />
     <ClCompile Include="爱吃猫粮的校招喵.cpp" />
     <ClCompile Include="组成硬币.cpp" />
     <ClCompile Include="组队竞赛.cpp" />

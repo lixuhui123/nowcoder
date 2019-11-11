@@ -135,5 +135,11 @@
     <ClCompile Include="递归.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="找字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
