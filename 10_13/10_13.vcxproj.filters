@@ -135,10 +135,22 @@
     <ClCompile Include="递归.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="找字符.cpp">
+    <ClCompile Include="源2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源2.cpp">
+    <ClCompile Include="浅拷贝引发的重复释放.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_map找字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找logn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串转数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删去字符串中重复的字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

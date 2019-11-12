@@ -118,6 +118,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="atoi_and_stoi.cpp" />
+    <ClCompile Include="bit_map找字符.cpp" />
     <ClCompile Include="c.printf.cpp" />
     <ClCompile Include="const_ptr.cpp" />
     <ClCompile Include="isdigit.cpp" />
@@ -133,6 +134,7 @@
     <ClCompile Include="test_char.cpp" />
     <ClCompile Include="test_scanf.cpp" />
     <ClCompile Include="三人分糖果.cpp" />
+    <ClCompile Include="二分查找logn.cpp" />
     <ClCompile Include="任意数值转化.cpp" />
     <ClCompile Include="出现次数超过一半的数字.cpp" />
     <ClCompile Include="删除字符串中的字符.cpp" />
@@ -141,10 +143,12 @@
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="在字符串中以单词反转.cpp" />
     <ClCompile Include="妞妞找子数组.cpp" />
-    <ClCompile Include="找字符.cpp" />
+    <ClCompile Include="字符串转数字.cpp" />
+    <ClCompile Include="删去字符串中重复的字符.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
     <ClCompile Include="最小数字 .cpp" />
+    <ClCompile Include="浅拷贝引发的重复释放.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
     <ClCompile Include="istringstream.cpp" />
