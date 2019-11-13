@@ -12,9 +12,9 @@ public:
 	}
 	void make_fobei()
 	{
-		/* 默认生成30个 ，非递归*/
+		/* 默认生成300个 ，非递归*/
 		int i,j;
-		for (i=2;i<30;++i)
+		for (i=2;i<300;++i)
 		{
 			j = v[i - 1] + v[i - 2];
 			v.push_back(j);
@@ -49,7 +49,7 @@ public:
 		}
 	}
 };
-int mainsdfgherj()
+int maintrteraw()
 {
 	fobei test;
 	test.make_fobei();

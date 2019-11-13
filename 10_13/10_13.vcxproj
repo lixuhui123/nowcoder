@@ -135,11 +135,13 @@
     <ClCompile Include="test_scanf.cpp" />
     <ClCompile Include="三人分糖果.cpp" />
     <ClCompile Include="二分查找logn.cpp" />
+    <ClCompile Include="二货小易方蛋糕.cpp" />
     <ClCompile Include="任意数值转化.cpp" />
     <ClCompile Include="出现次数超过一半的数字.cpp" />
     <ClCompile Include="删除字符串中的字符.cpp" />
     <ClCompile Include="加减法2.cpp" />
     <ClCompile Include="双重逆序字符串.cpp" />
+    <ClCompile Include="合法的括号串.cpp" />
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="在字符串中以单词反转.cpp" />
     <ClCompile Include="妞妞找子数组.cpp" />

@@ -153,5 +153,11 @@
     <ClCompile Include="删去字符串中重复的字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二货小易方蛋糕.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合法的括号串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
