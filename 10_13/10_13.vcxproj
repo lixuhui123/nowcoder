@@ -127,6 +127,7 @@
     <ClCompile Include="ostringstream.cpp" />
     <ClCompile Include="RLE压缩.cpp" />
     <ClCompile Include="sort.cpp" />
+    <ClCompile Include="strcmp.cpp" />
     <ClCompile Include="strstr.cpp" />
     <ClCompile Include="strtok.cpp" />
     <ClCompile Include="substr.cpp" />
@@ -147,8 +148,10 @@
     <ClCompile Include="妞妞找子数组.cpp" />
     <ClCompile Include="字符串转数字.cpp" />
     <ClCompile Include="删去字符串中重复的字符.cpp" />
+    <ClCompile Include="排序字符串.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
+    <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="最小数字 .cpp" />
     <ClCompile Include="浅拷贝引发的重复释放.cpp" />
     <ClCompile Include="源.cpp" />

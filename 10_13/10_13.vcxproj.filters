@@ -159,5 +159,14 @@
     <ClCompile Include="合法的括号串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
