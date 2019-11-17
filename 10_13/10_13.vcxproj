@@ -135,6 +135,8 @@
     <ClCompile Include="test_char.cpp" />
     <ClCompile Include="test_scanf.cpp" />
     <ClCompile Include="三人分糖果.cpp" />
+    <ClCompile Include="不使用+计算A+B.cpp" />
+    <ClCompile Include="二分查找.cpp" />
     <ClCompile Include="二分查找logn.cpp" />
     <ClCompile Include="二货小易方蛋糕.cpp" />
     <ClCompile Include="任意数值转化.cpp" />
@@ -154,6 +156,7 @@
     <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="最小数字 .cpp" />
     <ClCompile Include="浅拷贝引发的重复释放.cpp" />
+    <ClCompile Include="测试变量长度和数值范围.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
     <ClCompile Include="istringstream.cpp" />
@@ -164,6 +167,7 @@
     <ClCompile Include="统计字符.cpp" />
     <ClCompile Include="统计字符类型.cpp" />
     <ClCompile Include="解析加减法运算.cpp" />
+    <ClCompile Include="走方格.cpp" />
     <ClCompile Include="连续最长子数字串.cpp" />
     <ClCompile Include="递归.cpp" />
     <ClCompile Include="递归的斐波那契.cpp" />

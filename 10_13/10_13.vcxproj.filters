@@ -168,5 +168,17 @@
     <ClCompile Include="strcmp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="测试变量长度和数值范围.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不使用+计算A+B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="走方格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
