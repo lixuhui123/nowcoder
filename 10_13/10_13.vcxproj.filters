@@ -180,5 +180,8 @@
     <ClCompile Include="走方格.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="五子棋.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

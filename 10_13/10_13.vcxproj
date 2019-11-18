@@ -139,6 +139,7 @@
     <ClCompile Include="二分查找.cpp" />
     <ClCompile Include="二分查找logn.cpp" />
     <ClCompile Include="二货小易方蛋糕.cpp" />
+    <ClCompile Include="五子棋.cpp" />
     <ClCompile Include="任意数值转化.cpp" />
     <ClCompile Include="出现次数超过一半的数字.cpp" />
     <ClCompile Include="删除字符串中的字符.cpp" />
