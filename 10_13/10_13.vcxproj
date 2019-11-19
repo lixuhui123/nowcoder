@@ -139,6 +139,7 @@
     <ClCompile Include="二分查找.cpp" />
     <ClCompile Include="二分查找logn.cpp" />
     <ClCompile Include="二货小易方蛋糕.cpp" />
+    <ClCompile Include="二进制连续1的个数.cpp" />
     <ClCompile Include="五子棋.cpp" />
     <ClCompile Include="任意数值转化.cpp" />
     <ClCompile Include="出现次数超过一半的数字.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="合法的括号串.cpp" />
     <ClCompile Include="回文子串.cpp" />
     <ClCompile Include="在字符串中以单词反转.cpp" />
+    <ClCompile Include="基类和派生类相互转换cpp.cpp" />
     <ClCompile Include="妞妞找子数组.cpp" />
     <ClCompile Include="字符串转数字.cpp" />
     <ClCompile Include="删去字符串中重复的字符.cpp" />
@@ -156,6 +158,7 @@
     <ClCompile Include="替换字符串的空格.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="最小数字 .cpp" />
+    <ClCompile Include="最近公共子节点.cpp" />
     <ClCompile Include="浅拷贝引发的重复释放.cpp" />
     <ClCompile Include="测试变量长度和数值范围.cpp" />
     <ClCompile Include="源.cpp" />
@@ -167,6 +170,7 @@
     <ClCompile Include="组队竞赛.cpp" />
     <ClCompile Include="统计字符.cpp" />
     <ClCompile Include="统计字符类型.cpp" />
+    <ClCompile Include="考拉找排序字符串.cpp" />
     <ClCompile Include="解析加减法运算.cpp" />
     <ClCompile Include="走方格.cpp" />
     <ClCompile Include="连续最长子数字串.cpp" />

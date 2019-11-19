@@ -183,5 +183,17 @@
     <ClCompile Include="五子棋.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="考拉找排序字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制连续1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="基类和派生类相互转换cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最近公共子节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
