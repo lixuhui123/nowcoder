@@ -195,5 +195,14 @@
     <ClCompile Include="最近公共子节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数位操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="所有组合遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

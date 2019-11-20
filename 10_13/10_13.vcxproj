@@ -153,7 +153,10 @@
     <ClCompile Include="妞妞找子数组.cpp" />
     <ClCompile Include="字符串转数字.cpp" />
     <ClCompile Include="删去字符串中重复的字符.cpp" />
+    <ClCompile Include="所有组合遍历.cpp" />
+    <ClCompile Include="找素数.cpp" />
     <ClCompile Include="排序字符串.cpp" />
+    <ClCompile Include="数位操作.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
