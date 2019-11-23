@@ -45,7 +45,7 @@ public:
 	}
 	
 };
-int main()
+int maincdsddres()
 {
 	 
 	/*int tmp = 1024;

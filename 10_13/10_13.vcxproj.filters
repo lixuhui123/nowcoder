@@ -204,5 +204,23 @@
     <ClCompile Include="所有组合遍历.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="命令行解析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c语言分割字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="参数解析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小易跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="总结以前的心得体会，和判断一年的第几天.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="深度优先搜索与剪枝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -15,14 +15,14 @@
 //		pch = strtok(nullptr, " -.,");
 //	}*/
 //
-//	char str[] = "They are students. ";
+//	char str[] = "They 'ar   e'stu dents. ";
 //	char * pch;
 //	printf("Splitting string \"%s\" into tokens:\n", str);
-//	pch = strtok(str, "aeiou");
+//	pch = strtok(str, "'");
 //	while (pch != NULL)
 //	{
-//		printf("%s", pch);
-//		pch = strtok(nullptr, "aeiou");
+//		printf("%s\n", pch);
+//		pch = strtok(nullptr, "'");
 //	}
 //	/* Th
 //       y
