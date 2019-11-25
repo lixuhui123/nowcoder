@@ -135,6 +135,7 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test_char.cpp" />
     <ClCompile Include="test_scanf.cpp" />
+    <ClCompile Include="test_time.cpp" />
     <ClCompile Include="三人分糖果.cpp" />
     <ClCompile Include="不使用+计算A+B.cpp" />
     <ClCompile Include="二分查找.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="合法的括号串.cpp" />
     <ClCompile Include="命令行解析.cpp" />
     <ClCompile Include="回文子串.cpp" />
+    <ClCompile Include="因数之和.cpp" />
     <ClCompile Include="在字符串中以单词反转.cpp" />
     <ClCompile Include="基类和派生类相互转换cpp.cpp" />
     <ClCompile Include="妞妞找子数组.cpp" />
@@ -159,6 +161,7 @@
     <ClCompile Include="小易跳台阶.cpp" />
     <ClCompile Include="总结以前的心得体会，和判断一年的第几天.cpp" />
     <ClCompile Include="所有组合遍历.cpp" />
+    <ClCompile Include="扑克牌.cpp" />
     <ClCompile Include="找素数.cpp" />
     <ClCompile Include="排序字符串.cpp" />
     <ClCompile Include="数位操作.cpp" />
@@ -181,6 +184,7 @@
     <ClCompile Include="统计字符类型.cpp" />
     <ClCompile Include="考拉找排序字符串.cpp" />
     <ClCompile Include="解析加减法运算.cpp" />
+    <ClCompile Include="贪心和回溯.cpp" />
     <ClCompile Include="走方格.cpp" />
     <ClCompile Include="连续最长子数字串.cpp" />
     <ClCompile Include="递归.cpp" />

@@ -222,5 +222,17 @@
     <ClCompile Include="深度优先搜索与剪枝.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="贪心和回溯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="因数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_time.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扑克牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
