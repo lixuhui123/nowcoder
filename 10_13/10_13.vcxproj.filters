@@ -234,5 +234,14 @@
     <ClCompile Include="扑克牌.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="生兔子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="通配符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

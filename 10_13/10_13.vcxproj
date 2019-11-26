@@ -122,6 +122,7 @@
     <ClCompile Include="c.printf.cpp" />
     <ClCompile Include="const_ptr.cpp" />
     <ClCompile Include="c语言分割字符.cpp" />
+    <ClCompile Include="find.cpp" />
     <ClCompile Include="isdigit.cpp" />
     <ClCompile Include="istringstream_.cpp" />
     <ClCompile Include="long.cpp" />
@@ -178,6 +179,7 @@
     <ClCompile Include="istringstream.cpp" />
     <ClCompile Include="源2.cpp" />
     <ClCompile Include="爱吃猫粮的校招喵.cpp" />
+    <ClCompile Include="生兔子.cpp" />
     <ClCompile Include="组成硬币.cpp" />
     <ClCompile Include="组队竞赛.cpp" />
     <ClCompile Include="统计字符.cpp" />
@@ -189,6 +191,7 @@
     <ClCompile Include="连续最长子数字串.cpp" />
     <ClCompile Include="递归.cpp" />
     <ClCompile Include="递归的斐波那契.cpp" />
+    <ClCompile Include="通配符.cpp" />
     <ClCompile Include="非递归的斐波那契.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
