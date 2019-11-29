@@ -17,7 +17,7 @@
 
 using namespace std;
 
-int main()
+int maincsacwefas()
 {
 	string str1, str2;
 

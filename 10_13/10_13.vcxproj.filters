@@ -243,5 +243,20 @@
     <ClCompile Include="find.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串通配_动态规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个字符串公序列_动态规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="喝汽水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="haah.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
