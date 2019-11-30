@@ -258,5 +258,11 @@
     <ClCompile Include="haah.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="输出反转后的字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公共子串长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -173,6 +173,7 @@
     <ClCompile Include="数位操作.cpp" />
     <ClCompile Include="斐波那契.cpp" />
     <ClCompile Include="替换字符串的空格.cpp" />
+    <ClCompile Include="最大公共子串长度.cpp" />
     <ClCompile Include="最小公倍数.cpp" />
     <ClCompile Include="最小数字 .cpp" />
     <ClCompile Include="最近公共子节点.cpp" />
@@ -193,6 +194,7 @@
     <ClCompile Include="解析加减法运算.cpp" />
     <ClCompile Include="贪心和回溯.cpp" />
     <ClCompile Include="走方格.cpp" />
+    <ClCompile Include="输出反转后的字符串.cpp" />
     <ClCompile Include="连续最长子数字串.cpp" />
     <ClCompile Include="递归.cpp" />
     <ClCompile Include="递归的斐波那契.cpp" />
