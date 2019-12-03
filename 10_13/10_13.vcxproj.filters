@@ -264,5 +264,11 @@
     <ClCompile Include="最大公共子串长度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="递归变循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个字符串的嘴短距离cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -141,6 +141,7 @@
     <ClCompile Include="三人分糖果.cpp" />
     <ClCompile Include="不使用+计算A+B.cpp" />
     <ClCompile Include="两个字符串公序列_动态规划.cpp" />
+    <ClCompile Include="两个字符串的嘴短距离cpp.cpp" />
     <ClCompile Include="二分查找.cpp" />
     <ClCompile Include="二分查找logn.cpp" />
     <ClCompile Include="二货小易方蛋糕.cpp" />
@@ -197,6 +198,7 @@
     <ClCompile Include="输出反转后的字符串.cpp" />
     <ClCompile Include="连续最长子数字串.cpp" />
     <ClCompile Include="递归.cpp" />
+    <ClCompile Include="递归变循环.cpp" />
     <ClCompile Include="递归的斐波那契.cpp" />
     <ClCompile Include="通配符.cpp" />
     <ClCompile Include="非递归的斐波那契.cpp" />

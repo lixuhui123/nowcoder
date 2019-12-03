@@ -43,7 +43,7 @@
 //				maxlen = templen +1;
 //			}
 //		}
-//		cout << start << " " << maxlen << endl;
+//		//cout << start << " " << maxlen << endl;
 //		int middle = _strlen / 2+1;
 //		if (middle <= maxlen)
 //		{
@@ -60,8 +60,8 @@
 //int main()
 //{
 //	Solution test;
-//	int temp[50] = { 1 ,1};
-//	vector<int> v(temp,temp+2);
+//	int temp[50] = { 1 ,2,3,2,2};
+//	vector<int> v(temp,temp+5);
 //	cout<<test.MoreThanHalfNum_Solution(v);
 //	system("pause"); 
 //	return 0;
