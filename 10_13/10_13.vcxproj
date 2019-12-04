@@ -138,6 +138,7 @@
     <ClCompile Include="test_char.cpp" />
     <ClCompile Include="test_scanf.cpp" />
     <ClCompile Include="test_time.cpp" />
+    <ClCompile Include="tmp.cpp" />
     <ClCompile Include="三人分糖果.cpp" />
     <ClCompile Include="不使用+计算A+B.cpp" />
     <ClCompile Include="两个字符串公序列_动态规划.cpp" />
