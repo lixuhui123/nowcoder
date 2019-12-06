@@ -273,5 +273,20 @@
     <ClCompile Include="tmp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="拿礼物.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字的根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="外星密码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="青蛙跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快到碗里来.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

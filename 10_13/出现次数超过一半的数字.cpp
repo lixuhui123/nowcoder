@@ -10,6 +10,11 @@
 //	int MoreThanHalfNum_Solution(vector<int> numbers)
 //	{
 //		sort(numbers.begin(), numbers.end());
+//		for (auto & i:numbers)
+//		{
+//			cout << i << ' ';
+//		}
+//		cout << endl;
 //		if (numbers.size()==0)
 //		{
 //			return 0;
