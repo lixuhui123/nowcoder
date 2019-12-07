@@ -288,5 +288,8 @@
     <ClCompile Include="快到碗里来.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="连续数组最大子段和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

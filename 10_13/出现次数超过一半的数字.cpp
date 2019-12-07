@@ -7,21 +7,21 @@
 //public:
 //
 //	 /* sort三个参数存在问题 */
-//	int MoreThanHalfNum_Solution(vector<int> numbers)
+//	int MoreThanHalfNum_Solution(vector<int> gifts)
 //	{
-//		sort(numbers.begin(), numbers.end());
-//		for (auto & i:numbers)
-//		{
-//			cout << i << ' ';
-//		}
+//		sort(gifts.begin(), gifts.end());
+//		//for (auto & i:gifts)
+//		//{
+//		//	cout << i << ' ';
+//		//}
 //		cout << endl;
-//		if (numbers.size()==0)
+//		if (gifts.size()==0)
 //		{
 //			return 0;
 //		}
-//		/*if (numbers.size() == 1)
+//		/*if (gifts.size() == 1)
 //		{
-//			return numbers[0];
+//			return gifts[0];
 //		}*/
 //		int start = 0;/* 记录最长的子串起始位置，随时更新 */
 //		int maxlen = 0;/* 记录最长子串的长度，随时更新 */
@@ -29,13 +29,13 @@
 //		int templen = 0;
 //		int tempdel = 0;
 //		/* 在string里面找，遍历string */
-//		int _strlen = numbers.size();
+//		int _strlen = gifts.size();
 //		int i = 0;
 //		for (i = 0; i < _strlen; ++i)
 //		{
 //			tempindex = i;
 //			++i;
-//			while ((i < _strlen) && (numbers[i-1] == numbers[i])  )
+//			while ((i < _strlen) && (gifts[i-1] == gifts[i])  )
 //			{
 //				
 //				++i;
@@ -52,7 +52,7 @@
 //		int middle = _strlen / 2+1;
 //		if (middle <= maxlen)
 //		{
-//			return numbers[start+1];
+//			return gifts[start+1];
 //		}
 //		else
 //		{

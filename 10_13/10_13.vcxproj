@@ -201,6 +201,7 @@
     <ClCompile Include="贪心和回溯.cpp" />
     <ClCompile Include="走方格.cpp" />
     <ClCompile Include="输出反转后的字符串.cpp" />
+    <ClCompile Include="连续数组最大子段和.cpp" />
     <ClCompile Include="连续最长子数字串.cpp" />
     <ClCompile Include="递归.cpp" />
     <ClCompile Include="递归变循环.cpp" />
