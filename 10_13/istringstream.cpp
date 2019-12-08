@@ -26,7 +26,7 @@ int mainfdsrfdfagdfg()
 	getline(cin, line);
 	istringstream iss(line);
 	while (iss >> tmp) 
-	{
+	{ 
 		arr.push_back(tmp);
 		mmax = max(mmax, tmp);
 		sum += tmp;

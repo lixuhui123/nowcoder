@@ -121,7 +121,7 @@
     <ClCompile Include="bit_map找字符.cpp" />
     <ClCompile Include="c.printf.cpp" />
     <ClCompile Include="const_ptr.cpp" />
-    <ClCompile Include="c语言分割字符.cpp" />
+    <ClCompile Include="c语言分割字符_正则表达.cpp" />
     <ClCompile Include="find.cpp" />
     <ClCompile Include="haah.cpp" />
     <ClCompile Include="isdigit.cpp" />
@@ -138,11 +138,10 @@
     <ClCompile Include="test_char.cpp" />
     <ClCompile Include="test_scanf.cpp" />
     <ClCompile Include="test_time.cpp" />
-    <ClCompile Include="tmp.cpp" />
     <ClCompile Include="三人分糖果.cpp" />
     <ClCompile Include="不使用+计算A+B.cpp" />
     <ClCompile Include="两个字符串公序列_动态规划.cpp" />
-    <ClCompile Include="两个字符串的嘴短距离cpp.cpp" />
+    <ClCompile Include="两个字符串的最短编辑距离cpp.cpp" />
     <ClCompile Include="二分查找.cpp" />
     <ClCompile Include="二分查找logn.cpp" />
     <ClCompile Include="二货小易方蛋糕.cpp" />
@@ -151,6 +150,7 @@
     <ClCompile Include="任意数值转化.cpp" />
     <ClCompile Include="出现次数超过一半的数字.cpp" />
     <ClCompile Include="删除字符串中的字符.cpp" />
+    <ClCompile Include="判断三角形.cpp" />
     <ClCompile Include="加减法2.cpp" />
     <ClCompile Include="动态规划.cpp" />
     <ClCompile Include="参数解析.cpp" />

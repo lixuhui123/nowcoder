@@ -207,9 +207,6 @@
     <ClCompile Include="命令行解析.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="c语言分割字符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="参数解析.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -267,12 +264,6 @@
     <ClCompile Include="递归变循环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="两个字符串的嘴短距离cpp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="tmp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="拿礼物.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -289,6 +280,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="连续数组最大子段和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c语言分割字符_正则表达.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个字符串的最短编辑距离cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
