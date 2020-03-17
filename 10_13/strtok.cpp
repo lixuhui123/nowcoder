@@ -18,11 +18,11 @@ int main()
 	char str[] = "They are students.";
 	char * pch;
 	printf("Splitting string \"%s\" into tokens:\n", str);
-	pch = strtok(str, "aeiou ");
+	pch = strtok(str, "aeiou");
 	while (pch != NULL)
 	{
 		printf("%s", pch);
-		pch = strtok(nullptr, "aeiou ");
+		pch = strtok(nullptr, "aeiou");
 	}
 	/* Th
        y
